@@ -1,15 +1,15 @@
 # Kantele
 A gateway for sending SMS via HTTP.
 
-# Installation
+## Installation
 TODO
 
-# Configuration
+## Configuration
 TODO
 
-# Architecture
+## Architecture
 TODO
 
-# License
+## License
 MIT
 
